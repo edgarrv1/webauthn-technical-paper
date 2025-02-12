@@ -115,7 +115,7 @@ This is the first-time flow, in which a new credential is created and registered
     - The script may store data such as the credential ID in local storage, to improve future UX by narrowing the choice of credential for the user.
 
 ### Authenticating with a WebAuthN Credential
-![Image Alt Text](./assets/authenticating_webAuthN.png)
+![Image Alt Text](./assets/authenticating_WebAuthN.png)
 This is the flow when a user with an already registered credential visits a website and wants to authenticate using the credential.
 
 1. The user visits Example Domain , which serves up a script.
